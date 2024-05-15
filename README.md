@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<center> In the last 2 years, I've focused on developing my interest and career in the data and customer behavior field </center>
 <!--
 **Agungvpzz/Agungvpzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
