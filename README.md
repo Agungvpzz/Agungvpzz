@@ -13,10 +13,13 @@
 
 <h3>Streamlit Gallery</h3>
 <div align="center" style="display: flex; justify-content: center; gap: 10px; max-width: 100%; margin: 10px;">
-  <a href="https://basket-analysis.streamlit.app/" target="_blank">
-    <img src="https://github.com/Agungvpzz/Agungvpzz/assets/48642326/9782ce0b-aa94-4eff-a8dd-a9a91ff5f29d" alt="Basekt Analysis" style="width: 30%; height: 200px;"/>
+  <a href="https://basket-analysis.streamlit.app/" target="blank">
+    <img src="https://github.com/Agungvpzz/Agungvpzz/assets/48642326/9782ce0b-aa94-4eff-a8dd-a9a91ff5f29d" alt="Basekt Analysis" style="width: 30%; height: 250px;"/>
   </a>
-  <a href="https://basket-analysis.streamlit.app/" target="_blank">
-    <img src="https://github.com/Agungvpzz/Agungvpzz/assets/48642326/9782ce0b-aa94-4eff-a8dd-a9a91ff5f29d" alt="Basekt Analysis" style="width: 30%; height: 200px;"/>
+  <a href="https://basket-analysis.streamlit.app/" target="blank">
+    <img src="https://github.com/Agungvpzz/Agungvpzz/assets/48642326/9782ce0b-aa94-4eff-a8dd-a9a91ff5f29d" alt="Basekt Analysis" style="width: 30%; height: 250px;"/>
+  </a>
+  <a href="https://basket-analysis.streamlit.app/" target="blank">
+    <img src="https://github.com/Agungvpzz/Agungvpzz/assets/48642326/9782ce0b-aa94-4eff-a8dd-a9a91ff5f29d" alt="Basekt Analysis" style="width: 30%; height: 250px;"/>
   </a>
 </div>
