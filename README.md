@@ -1,4 +1,4 @@
-### Hi there 👋
+<div align="center"> ### Full Stack Data Scientist 👋 </div>
 
 <div align="center"> In the last 2 years, I've focused on developing my interest and career in the data and customer behavior field </div>
 <!--
