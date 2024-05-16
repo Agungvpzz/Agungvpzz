@@ -13,6 +13,6 @@
 
 <h3>Streamlit Gallery</h3>
 <div align="center" style="display: flex; justify-content: center; gap: 10px; max-width: 100%; margin: 10px;">
-  <img src="https://github.com/Agungvpzz/Agungvpzz/assets/48642326/19d275a1-3fb3-4a0a-a764-a377bc9d4eed" alt="Image 1" style="width: 48%; height: 300px;" />
+  <a href="https://basket-analysis.streamlit.app/"><img src="https://github.com/Agungvpzz/Agungvpzz/assets/48642326/9782ce0b-aa94-4eff-a8dd-a9a91ff5f29d" alt="Basekt Analysis" style="width: 30%;"/></a>
   <img src="https://github.com/Agungvpzz/Agungvpzz/assets/48642326/d091f25a-7ebe-4063-aa97-f41b7d3b4c13" alt="Image 2" style="width: 48%; height: 300px;" />  
 </div>
