@@ -14,22 +14,23 @@
 <h3>Streamlit Gallery</h3>
 <div align="center" style="display: flex; justify-content: center; gap: 30px; max-width: 100%; margin: 10px;">
   <div style="width: 45%;">
-    <div style="display: flex; flex-direction: column; align-items: center;">
+    <div style="text-align: center;">
       <a href="https://basket-analysis.streamlit.app/" target="_blank">
-        <img src="https://github.com/Agungvpzz/Agungvpzz/assets/48642326/9782ce0b-aa94-4eff-a8dd-a9a91ff5f29d" alt="Basekt Analysis" style="width: 100%; height: auto;" />
+        <img src="https://github.com/Agungvpzz/Agungvpzz/blob/main/assets/48642326/9782ce0b-aa94-4eff-a8dd-a9a91ff5f29d.jpg?raw=true" alt="Basekt Analysis" style="width: 100%; height: auto;" />
       </a>
       <p>Simple Description</p>
     </div>
   </div>
   <div style="width: 45%;">
-    <div style="display: flex; flex-direction: column; align-items: center;">
+    <div style="text-align: center;">
       <a href="https://customer-churn-analysis.streamlit.app/" target="_blank">
-        <img src="https://github.com/Agungvpzz/Agungvpzz/assets/48642326/c707b83b-1f98-4b57-877a-ac078bfc23c8" alt="Churn Analysis" style="width: 100%; height: auto;" />
+        <img src="https://github.com/Agungvpzz/Agungvpzz/blob/main/assets/48642326/c707b83b-1f98-4b57-877a-ac078bfc23c8.jpg?raw=true" alt="Churn Analysis" style="width: 100%; height: auto;" />
       </a>
       <p>Simple Description</p>
     </div>
   </div>
 </div>
+
 
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px; max-width: 100%; margin: 10px;">
