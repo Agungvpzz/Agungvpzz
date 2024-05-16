@@ -7,4 +7,8 @@
 
 As a tableau user, 
 ![image](https://github.com/Agungvpzz/Agungvpzz/assets/48642326/19d275a1-3fb3-4a0a-a764-a377bc9d4eed)
-
+<p align="center">
+  <img src="https://github.com/Agungvpzz/Agungvpzz/assets/48642326/19d275a1-3fb3-4a0a-a764-a377bc9d4eed" alt="Image 1" width="200"/>
+  <img src="https://www.example.com/image2.jpg" alt="Image 2" width="200" />
+  <img src="https://www.example.com/image3.jpg" alt="Image 3" width="200" />
+</p>
