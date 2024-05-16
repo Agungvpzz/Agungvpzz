@@ -1,7 +1,7 @@
 <div align="center"><H1>Hello 👋, I am Agung</H1></div>
 
 <div align="center">
-  <strong style="font-size: 30px;">Full Stack Data Scientist!</strong>
+  <strong style="font-size: large;">Full Stack Data Scientist!</strong>
 </div>
 <div align="center">In the last 2 years, I've focused on developing my interest and career in the data and customer analysis field</div>
 <!--
