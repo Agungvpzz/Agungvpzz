@@ -1,6 +1,6 @@
 <div align="center"><h1>Hello 👋, I am Agung</h1></div>
 
-<div align="center" style="font-size: 2em;"><h3>Full Stack Data Scientist!</h3</div>
+<div align="center""><h3>Full Stack Data Scientist!</h3></div>
 <div align="center">In the last 2 years, I've focused on developing my interest and career in the data and customer analysis field</div>
 <!--
 **Agungvpzz/Agungvpzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
