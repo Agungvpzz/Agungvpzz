@@ -12,22 +12,24 @@
 </div>
 
 
+<! -- STREAMLIT GALLERY -->
+
 <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
-  <div style="max-width: 45%;">
+  <div style="max-width: 40%;">
     <img src="image1.jpg" alt="Image 1">
     <p style="text-align: center;">Description for Image 1</p>
   </div>
-  <div style="max-width: 45%;">
+  <div style="max-width: 40%;">
     <img src="image2.jpg" alt="Image 2">
     <p style="text-align: center;">Description for Image 2</p>
   </div>
 </div>
 <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
-  <div style="max-width: 45%;">
+  <div style="max-width: 40%;">
     <img src="image3.jpg" alt="Image 3">
     <p style="text-align: center;">Description for Image 3</p>
   </div>
-  <div style="max-width: 45%;">
+  <div style="max-width: 40%;">
     <img src="image4.jpg" alt="Image 4">
     <p style="text-align: center;">Description for Image 4</p>
   </div>
