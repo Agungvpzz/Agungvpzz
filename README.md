@@ -9,6 +9,7 @@
   [![Static Badge](https://img.shields.io/badge/Tableau-%20-%20?style=social&logo=tableau)](https://public.tableau.com/app/profile/agung.maulana6062/vizzes)
   [![Static Badge](https://img.shields.io/badge/Portfolio-%20-%20?style=social&logo=firefox)](https://agungmaulana.pages.dev/)
   [![Static Badge](https://img.shields.io/badge/Kaggle-%20-%20?style=social&logo=kaggle)]()
+  [![Static Badge](https://img.shields.io/badge/Email-%20-%20?style=social&logo=gmail)](mailto:agungm.work@gmail.com)
   
 </div>
 <div align="center"><h3>Full Stack Data Scientist!</h3></div>
