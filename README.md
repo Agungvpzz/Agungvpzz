@@ -97,6 +97,13 @@
 <!-- Data Science Project -->
 <h2>Data Science Projects</h2>
 
+<a href="https://github.com/Agungvpzz/Telco-Churn-Analysis">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Agungvpzz&theme=dark&hide_border=true&repo=Telco-Churn-Analysis" />
+</a>
+<a href="https://github.com/Agungvpzz/Boston-House-Price-Prediction">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Agungvpzz&theme=dark&hide_border=true&repo=Boston-House-Price-Prediction" />
+</a>
+
 
 <!-- Data Engineer Project -->
 <h2>Data Engineer Projects</h2>
