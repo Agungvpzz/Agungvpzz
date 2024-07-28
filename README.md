@@ -86,14 +86,6 @@
 </div>
 
 
-<!-- Power BI Gallery -->
-<h2>Power BI Gallery</h2>
-
-
-<!-- Google Data Studio Gallery -->
-<h2>Google Looker Gallery</h2>
-
-
 <!-- Data Science Project -->
 <h2>Data Science Projects</h2>
 
@@ -105,5 +97,4 @@
 </a>
 
 
-<!-- Data Engineer Project -->
-<h2>Data Engineer Projects</h2>
+![](https://komarev.com/ghpvc/?username=Agungvpzz&color=blue&abbreviated=true)
