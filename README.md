@@ -12,7 +12,7 @@
   [![Static Badge](https://img.shields.io/badge/Email-%20-%20?style=social&logo=gmail)](mailto:agungm.work@gmail.com)
   
 </div>
-<div align="center"><h3>Full Stack Data Scientist!</h3></div>
+<div align="center"><h3>Social Data Scientist!</h3></div>
 <div align="center">In the last 2 years, I've focused on developing my interest and career in the data and customer analysis field</div>
 
 
