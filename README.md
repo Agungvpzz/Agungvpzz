@@ -76,7 +76,6 @@
   <img src="https://github.com/user-attachments/assets/39243342-cfd3-4d9a-9807-c361b058a840" alt="Customer Service Overview" style="width: 48%; height: 250px;" />  
   <img src="https://github.com/user-attachments/assets/00533c47-f2ba-4b16-a9a0-b695d3a165c1" alt="Customer Churn" style="width: 48%; height: 250px;" />  
 </div>
-![image]()
 
 <!-- Streamlit Gallery -->
 <h2>Streamlit Gallery</h2>
