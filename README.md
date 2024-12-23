@@ -64,6 +64,20 @@
   <img src="https://github.com/Agungvpzz/Agungvpzz/assets/48642326/d091f25a-7ebe-4063-aa97-f41b7d3b4c13" alt="Image 2" style="width: 48%; height: 300px;" />  
 </div>
 
+
+<!-- Power BI Gallery -->
+<h2>Power BI Gallery</h2>
+
+<div align="center" style="display: flex; justify-content: center; gap: 10px; max-width: 100%; margin: 10px;">
+  <img src="https://github.com/user-attachments/assets/51c613ae-2f7d-44c2-84f7-3b1516308413" alt="Image 1" style="width: 48%; height: 300px;" />
+  <img src="https://github.com/user-attachments/assets/39243342-cfd3-4d9a-9807-c361b058a840" alt="Image 2" style="width: 48%; height: 300px;" />  
+</div>
+<div align="center" style="display: flex; justify-content: center; gap: 10px; max-width: 100%; margin: 10px;">
+  <img src="https://github.com/user-attachments/assets/0d49a466-4f12-4cec-bf54-c5a268be0a6b" alt="Image 1" style="width: 48%; height: 300px;" />
+  <img src="https://github.com/user-attachments/assets/34c80257-52d4-44c1-9240-d3f316bce18e" alt="Image 2" style="width: 48%; height: 300px;" />  
+  <img src="https://github.com/user-attachments/assets/00533c47-f2ba-4b16-a9a0-b695d3a165c1" alt="Image 3" style="width: 48%; height: 300px;" />  
+</div>
+
 <!-- Streamlit Gallery -->
 <h2>Streamlit Gallery</h2>
 <div align="center" style="display: flex; justify-content: center; gap: 10px; max-width: 100%; margin: 10px;">
