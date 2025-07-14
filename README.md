@@ -3,7 +3,7 @@
 
 <div align="center">
 
-  [![Static Badge](https://img.shields.io/badge/Streamlit-%20-%20?style=social&logo=streamlit)](https://share.streamlit.io/user/agungvpzz)  
+  [![Static Badge](https://img.shields.io/badge/Streamlit-%20-%20?style=social&logo=streamlit)](https://share.streamlit.io/user/agungvpzz)
   [![Static Badge](https://img.shields.io/badge/Linkedin-%20-%20?style=social&logo=linkedin)](https://www.linkedin.com/in/agung-maulana-work/)
   [![Static Badge](https://img.shields.io/badge/Tableau-%20-%20?style=social&logo=tableau)](https://public.tableau.com/app/profile/agung.maulana6062/vizzes)
   [![Static Badge](https://img.shields.io/badge/Portfolio-%20-%20?style=social&logo=firefox)](https://agungmaulana.pages.dev/)
